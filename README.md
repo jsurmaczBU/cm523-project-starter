@@ -13,5 +13,5 @@ You may use this repo as a 'starter' kit for your project. In it you will find..
 - You don't have to create a directory for pages; they belong in the main directory.
 - Resize your images to fit the context. For example, if you have an image asset that is 1000px by 500px, but you only use it at 500px by 250px... then resize it to fit. Don't waste bytes.
 - Optimize your images using [Squoosh](https://squoosh.app/).
-- Don't throw aside all the lessons you learned this semester... accessibility, green design, atomic design, responsive design, CSS architecture, design systems, typography, layout, color, negative space, etc.
-- Don't 'Google' your way through the project. Think about how you can APPLY what you've learned to build your project. If you don't see an obvious path, ASK for help. Trying to retro-fit someone else's solution for a similar problem is NOT learning.   
+- Don't throw aside all the lessons you learned this semester... accessibility, inclusive design, green design, atomic design, responsive design, CSS architecture, design systems, typography, layout, color, negative space, etc.
+- Think about how you can APPLY what you've learned to build your project. Start with a PLAN, then begin your prompts in bits and pieces. If you don't see an obvious path, ASK for help. Trying to retro-fit someone else's solution for a similar problem is NOT learning.   
